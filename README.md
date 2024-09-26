@@ -1,2 +1,3 @@
 # education-initivates-assignment
-excersie 1. design patterns
+exercise 1. design patterns
+exercise 2. Smart Home System
