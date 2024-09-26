@@ -42,6 +42,6 @@ Install the necessary dependencies:
 git clone https://github.com/smitthakore/education-initivates-assignment.git
 
 # Navigate to the project folder
-cd Excerise 1
+cd Exercise 1
 
 
