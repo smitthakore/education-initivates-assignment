@@ -26,8 +26,6 @@ The following naming conventions are used for better clarity and adherence to Ja
 - **Methods & Variables**: Methods and variables use `camelCase` (e.g., `getInstance`, `createFactory`).
 - **Constants**: Constants are written in all uppercase with underscores (e.g., `MAX_COUNT`).
 
-Folder names follow lowercased naming with spaces to categorize the type of design pattern.
-
 ---
 
 ## Requirements
@@ -41,9 +39,9 @@ Install the necessary dependencies:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/design-patterns-java.git
+git clone https://github.com/smitthakore/education-initivates-assignment.git
 
 # Navigate to the project folder
-cd design-patterns-java
+cd Excerise 1
 
 
